@@ -1,20 +1,20 @@
 body {
-  background: #111;
+  background: #161b22;
   color: #f4f4f4;
 }
 
 .header {
-  background: #373737;
+  background: rgba(1, 4, 9, 0.8);
   color: #f4f4f4;
 }
 
 .nav__item {
   color: #f4f4f4;
-  background: #373737;
+  background: rgba(1, 4, 9, 0.8);
 }
 
 .nav__item:hover, .nav__item_active {
-  background: #444;
+  background: #21262d;
 }
 
 .theme-button {

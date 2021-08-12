@@ -45,4 +45,8 @@ body, html {
   display: inline-block;
   padding: 10px 25px;
   cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
